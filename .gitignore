@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Environment
+.env
+
+# Results
+results/
+*.json
+*.csv
+*.md
+*.tar.gz
+*.zip
+
+# Source project
+source/
+
+# Reports
+*.docx
